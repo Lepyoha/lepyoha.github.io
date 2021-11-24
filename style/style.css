@@ -161,14 +161,15 @@ input[type="text"]{
 	display: flex;
 	flex-direction: row;
 	padding-top: 10px;
-	height: 25px;
+	height: 30px;
 	color: #e0cdc7;
 }
 .content_hed_end li {
 	list-style: none;
 	padding-right: 5px;
 	border-right: 1px solid #f0d4a2;
-	margin-right: 10px;
+	margin-right: 5px;
+	font-size: 15px;
 	color: #e0cdc7;
 }
 

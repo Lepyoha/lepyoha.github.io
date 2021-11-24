@@ -180,7 +180,6 @@ input[type="text"]{
 	display: flex;
 	flex-direction: column;
 	padding-top: 10px;
-	padding-left: 5px;
 	color: #e0cdc7;
 }
 
@@ -211,9 +210,9 @@ input[type="text"]{
 .content {
 	display: flex;
 	flex-direction: column;
-    width: 100%;
-	margin-right: 20px;
-	margin-left: 20px;
+    width: 95%;
+	margin-right: 10px;
+	margin-left: 10px;
 }
 
 .page {
